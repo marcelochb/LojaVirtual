@@ -17,6 +17,7 @@ export default function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
           </div>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
       <li>
@@ -30,6 +31,7 @@ export default function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
           </div>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
       <li>
@@ -43,6 +45,7 @@ export default function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
           </div>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
       <li>
@@ -56,6 +59,7 @@ export default function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
           </div>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
       <li>
@@ -69,6 +73,7 @@ export default function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
           </div>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
       <li>
@@ -82,6 +87,7 @@ export default function Home() {
           <div>
             <MdAddShoppingCart size={16} color="#FFF" /> 3
           </div>
+          <span>ADICIONAR AO CARRINHO</span>
         </button>
       </li>
     </ProductList>
