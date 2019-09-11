@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/control-has-associated-label */
+/* eslint-disable react/prop-types */
 import React from 'react';
 import { bindActionCreators } from 'redux';
 import { connect } from 'react-redux';
@@ -11,6 +13,7 @@ import * as CartActions from '../../store/modules/cart/actions';
 
 import { Container, ProductTable, Total } from './styles';
 
+// eslint-disable-next-line react/prop-types
 function Cart({ cart, removeFromCart, updateAmountRequest, total }) {
   function increment(product) {
     updateAmountRequest(product.id, product.amount + 1);
