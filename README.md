@@ -1,4 +1,7 @@
 # GoStack - BootCamp
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcelochb/modulo07.svg)](https://greenkeeper.io/)
+
 ## FrontEnd ReactJS
 ### Arquitetura Flux com Redux e Hooks
 
